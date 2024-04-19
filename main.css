@@ -336,6 +336,9 @@ body {
 .map-image {
     width: 100%;
 }
+.map-image:hover {
+    filter: drop-shadow(8px 8px 10px #00C5FF);
+}
 /* footer */
 .container-8 {
     margin-top: 50px;
